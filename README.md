@@ -7,10 +7,10 @@
 Меня зовут Алексей, я разрабочик приложений для Android <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🎮: Приложение <a href="https://github.com/melle095/GameBrowser">GameBrowser</a> с каталогом игр под известные платформы (pet-проект).
-- ⚙️: Kotlin, Retrofit2, JSON, Picasso, RecyclerView, ViewPager, Material Design. Работает с API RAWG.IO
+- ⚙️: Стэк: Kotlin, Retrofit2, JSON, Picasso, RecyclerView, ViewPager, Material Design. Работает с API RAWG.IO
 --------------------------------------------------------------------
 - ☕: Приложение <a href="https://github.com/melle095/OneSquare">OneSquare</a> для поиска ближайших кафе и ресторанов (pet-проект).
-- ⚙️: Java, Picasso, RecyclerView, Material Design, Content Providers, SQlite, JSON, Service, Thread, Binder, Location services. Работает с API Four square
+- ⚙️: Стэк: Java, Picasso, RecyclerView, Material Design, Content Providers, SQlite, JSON, Service, Thread, Binder, Location services. Работает с API Four square
 
 
 <div id="badges" align="center">
